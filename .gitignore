@@ -10,6 +10,7 @@ PipeDemo/scripts/.ipynb_checkpoints/*
 PipeDemo/importLog
 
 #Ignore completed notebooks
+1-Numpy/*-complete.ipynb
 2-Pandas/*-complete.ipynb
 
 #Ignore spatial data frames, for now

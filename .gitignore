@@ -5,9 +5,12 @@ notebooks/.ipynb_checkpoints/*
 #Ignore large datsets
 *.npy
 
-#Ingore pipe demo files
+#Ignore pipe demo files
 PipeDemo/scripts/.ipynb_checkpoints/*
 PipeDemo/importLog
+
+#Ignore completed notebooks
+2-Pandas/*-complete.ipynb
 
 #Ignore spatial data frames, for now
 3-SpatialDataFrames/*
